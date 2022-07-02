@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("\nWe changed whitelist systems\n Please check #announcements\n and use the new script")
+game.Players.LocalPlayer:Kick("\nWe changed whitelist systems\nPlease check #announcements\nand use the new script")
