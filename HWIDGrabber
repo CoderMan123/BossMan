@@ -1,7 +1,7 @@
 setclipboard((syn and syn.request or request)({Url = 'https://buy.khysarth.ga/', Method = syn and "Get" or "GET"}).Body)
 
-local CoreGui = game:GetService("StarterGui")
-CoreGui:SetCore("SendNotification", {
+local StarterGui = game:GetService("StarterGui")
+StarterGui:SetCore("SendNotification", {
 	Title = "HWID Copied";
 	Text = "You can now paste your HWID";
 	Duration = 15;
